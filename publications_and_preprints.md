@@ -2,7 +2,7 @@
 <h1>List of in Progress Preprint</h1>
 
 
-<img src="https://render.githubusercontent.com/render/math?math=U_q^+\(\mathfrak{so}_5)">
+<img src="https://render.githubusercontent.com/render/math?math=U_q^+ \(\mathfrak{so}_5)">
 
 
 

@@ -1,5 +1,5 @@
 
-<h1>In Progress</h1>
+<h1>In Progress Articles</h1>
 
 
 <h2> Word embeddings point to growing moral concern across the 19th and 20th centuries </h2>
@@ -25,10 +25,11 @@ We classify the derivations of degree one generalized Weyl algebras over a univa
 
 Motivated by Weyl algebra analogues of the Jacobian conjecture and the tame generators problem, we prove quantum versions of these problems for a family of analogues to the Weyl algebras. In particular, our results cover the Weyl–Hayashi algebras and tensor powers of a quantization of the first Weyl algebra which arises as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">.
 
-Jointly authored with Professor St\'ephane Launois, this article was published in the Journal of Pure and Applied Algebra in 2019 
-and is available here: https://www.sciencedirect.com/science/article/pii/S0022404918301646
+Jointly authored with Professor St\'ephane Launois, this article was published in the Journal of Pure and Applied Algebra in 2019.
 
-The preprint of the article is freely available to read here: https://arxiv.org/pdf/1511.01775.pdf  
+Available here: https://www.sciencedirect.com/science/article/pii/S0022404918301646
+
+The preprint of the article is available to read here: https://arxiv.org/pdf/1511.01775.pdf  
 
 <h2> Endomorphisms of Quantum Generalized Weyl Algebras </h2>
 
@@ -37,46 +38,47 @@ The preprint of the article is freely available to read here: https://arxiv.org/
 We prove that every endomorphism of a simple quantum generalized Weyl algebra A over a commutative Laurent polynomial ring in one variable is an automorphism. This is achieved by obtaining an explicit classification of all endomorphisms of A. Our main result applies to minimal primitive factors of the quantized enveloping algebra <img src="https://render.githubusercontent.com/render/math?math=U_q (\mathfrak{sl}_2)"> and certain minimal primitive quotients of the positive part of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">.
 
 Jointly authored with Professor St\'ephane Launois, this article was published in the Letters in Mathematical Physics in 2014. 
+
 The University of Kent provided funding to make this paper open access and is therefore free to read here: https://link.springer.com/article/10.1007/s11005-014-0691-4
 
 The preprint of the article is available to read here: https://arxiv.org/abs/1311.3907
 
-<h1>Talks</h1>
 
-<h2> The Jacobian and Dixmier conjectures, and GWAs </h2> 
-
-University of Kent, 24 May 2013
-
-School of Mathematics and Actuarial Science 
-
-
-<h2> Endomophisms of Quantum Generalized Weyl Algebras </h2> 
-
-Calssical Aspects of Ring Theory and Module Theory, 16 July 2013
-
-Mathematical Research and Conference Center in Bedlewo, Poland.
-
-
-<h2> Quantized Weyl Algebras and Automorphisms </h2>
-
-ACA (Applications of Computer Algebra 2015), July 20 2015
-
-Kalamata, Greece 
-
+<h1>Selected Talks</h1>
 
 <h2> On the automorphisms of quantum Weyl algebras </h2> 
 
-University of Birmingham, 27 January 2016
+Algebra Seminar, 27 January 2016
 
-Algebra Seminar
+University of Birmingham, Birmingham UK
+
+<h2> Quantized Weyl Algebras and Automorphisms </h2>
+
+Conference: ACA (Applications of Computer Algebra), July 20 2015
+
+Elite City Resort, Kalamata, Greece 
+
+<h2> Endomophisms of Quantum Generalized Weyl Algebras </h2> 
+
+Conference: Calssical Aspects of Ring Theory and Module Theory, 16 July 2013
+
+Mathematical Research and Conference Center, Bedlewo, Poland
+
+<h2> The Jacobian and Dixmier conjectures, and GWAs </h2> 
+
+Research Seminar, 24 May 2013
+
+University of Kent, Kent, UK. 
 
 <h2> Endomophisms of Quantum Generalized Weyl Algebras </h2>
 
-Algebra, Combinatorics, Dynamics, and Applications, 4 September 2013
+Conference: Algebra, Combinatorics, Dynamics, and Applications, 4 September 2013
 
-Belfast, Ireland
+Queen's University Belfast, Belfast, Ireland
 
-4 September 2013
+
+
+
 
 
 

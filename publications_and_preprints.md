@@ -1,12 +1,11 @@
 
 <h1>In Progress Articles</h1>
 
-
-<h2> Word embeddings point to growing moral concern across the 19th and 20th centuries </h2>
+<h2> Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment </h2>
 
 **Abstract**
 
-Prominent ideals assert that historic progress is associated with growing moral concern for entities that are otherwise marginalized or mistreated. This idea remains influential and is consistent with benign historical trends including reductions in violence and legal discrimination. We test this idea by examining shifts in natural language over time--quantified in diachronic word embeddings. We first identify a linguistic association that captures moral concern towards entities spanning family members, friends, strangers, animals, and the environment. We then show that this association has shifted over the 19th and 20th centuries in a way that supports the idea that moral concern is growing. Curiously, this change was more-or-less uniform across different groups of entities. The results favor optimistic views of history by confirming that benign historical changes have likely been accompanied by shifts in natural language.
+The Enlightenment ideal of historical progress asserts that civil societies become more moral over time, and in particular, show increasing moral concern even for their most marginalized members. The idea remains influential and is consistent with benign historical trends including reductions in violence and increases in civil rights legislation. In the absence of historical survey data, however, testing the underlying construct of increasing moral concern is challenging. We examine shifting patterns of language use over time, applying machine-learning techniques referred to as word embeddings, to large databases of natural language spanning the 19th and 20th centuries. Over time, words denoting moral concern (vs. words denoting moral indifference) became increasingly associated with words denoting entities spanning family members, ingroups, outgroups, marginalized individuals, animals, and the environment. The results favor optimistic views of history by confirming that its benign changes have been accompanied by underlying shifts in moral concern. 
 
 Join work with Dr Stefan Leach and Professor Robbie M. Sutton.
 
@@ -78,11 +77,3 @@ University of Kent, Kent, UK.
 Conference: Algebra, Combinatorics, Dynamics, and Applications, 4 September 2013
 
 Queen's University Belfast, Belfast, Ireland
-
-
-
-
-
-
-
-

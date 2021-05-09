@@ -9,7 +9,7 @@ Speciesism refers to the different moral standing given to species, and includes
 
 Join work with Dr Stefan Leach, Professor Robbie M. Sutton, and Dr Kristof Dhont.
 
-The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
+The preprint of the article is available to read here: https://psyarxiv.com/ktvgx/ 
 
 <h2> Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment </h2>
 

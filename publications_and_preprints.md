@@ -1,13 +1,25 @@
 
 <h1>In Progress Articles</h1>
 
+<h2> Speciesism in Everyday Language </h2>
+
+**Abstract**
+
+Speciesism refers to the different moral standing given to species, and includes human supremacy over animals, and differentiations between animals, where companion animals are given higher moral standing than other species. Although it is clear that speciesism is culturally encoded, psychological science has revealed more about manifestations of speciesism in individuals’ thought than in collective systems of meaning. We present a quantitative test of speciesism by applying machine-learning methods (word embeddings) to billions of English words derived from conversation, film, books, and the internet. We found evidence of anthropocentric speciesism:words denoting concern (vs. indifference) and value (vs. valuelessness) were more closely associated with words denoting humans compared to most other animals. We also found evidence of companion animal speciesism:the same words were more closely associated with words denoting companion animals compared to other animals. The work presents a large-scale quantitative account of speciesism in everyday language.
+
+Join work with Dr Stefan Leach, Professor Robbie M. Sutton, and Dr Kristof Dhont.
+
+The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
+
 <h2> Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment </h2>
 
 **Abstract**
 
-The Enlightenment ideal of historical progress asserts that civil societies become more moral over time, and in particular, show increasing moral concern even for their most marginalized members. The idea remains influential and is consistent with benign historical trends including reductions in violence and increases in civil rights legislation. In the absence of historical survey data, however, testing the underlying construct of increasing moral concern is challenging. We examine shifting patterns of language use over time, applying machine-learning techniques referred to as word embeddings, to large databases of natural language spanning the 19th and 20th centuries. Over time, words denoting moral concern (vs. words denoting moral indifference) became increasingly associated with words denoting entities spanning family members, ingroups, outgroups, marginalized individuals, animals, and the environment. The results favor optimistic views of history by confirming that its benign changes have been accompanied by underlying shifts in moral concern. 
+The Enlightenment idea of historical moral progress asserts that civil societies become more moral over time. We tested this by examining how collective linguistic representations of people, animals, and the environment have changed over the 19th and 20th centuries. Specifically, we applied machine-learning methods (word embeddings) to archives of natural language and examined the associations between words denoting moral concern (vs. moral indifference) and words denoting entities spanning family members, ingroups, outgroups, marginalized individuals, animals, and the environment. Study 1 validated these associations by showing that they are greatest for those entities that are afforded the most moral concern (e.g., son) and lowest for those that are afforded the least (e.g., rival). Study 2 showed that these associations grew stronger over the 19th and 20th centuries. The results favor optimistic views of history.
 
 Join work with Dr Stefan Leach and Professor Robbie M. Sutton.
+
+The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
 
 <h2> Derivations of Quantum and Involution Generalized Weyl Algebras </h2>
 

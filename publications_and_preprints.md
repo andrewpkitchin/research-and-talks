@@ -60,7 +60,7 @@ The preprint of the article is available to read here: https://arxiv.org/abs/131
 
 <h1>Selected Talks</h1>
 
-<h3> On the automorphisms of quantum Weyl algebras </h3> 
+<h3> On the Automorphisms of Quantum Weyl Algebras </h3> 
 
 Algebra Seminar, 27 January 2016
 

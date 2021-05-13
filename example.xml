@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<reader id="409158921650" version="1">
+    <upload_date></upload_date>
+    <last_modification_date></last_modification_date>
+    <developers>
+        <developer role="writer">
+            <name>Andrew Kitchin</name>
+            <email_address>andrew.kitchin@nagwa.com</email_address>
+        </developer>
+    </developers>
+    <language name="English" />
+    <dialects>
+        <dialect name="British" />
+    </dialects>
+    <genre>Fiction</genre>
+    <level>A2</level>
+    <title>They Come From Good Families</title>
+    <text>
+        <p n="1">
+            <s n ="1">
+                <w n = "1" pos = "NNP" > "Richard, </w>
+                <w n = "2" pos = "DT" > the </w>
+                <w n = "3" pos = "NNS" > men </w>
+                <w n = "4" pos = "IN" > on </w>
+                <w n = "5" pos = "DT" > this </w>
+                <w n = "6" pos = "NN" > street </w>
+                <w n = "7" pos = "VBP" > are </w>
+                <w n = "8" pos = "VBN" > gentlemen. </w>
+            </s>
+            <s n ="2">
+                <w n = "9" pos = "PRP" > They </w>
+                <phrase pos = "phrasal verb" lemma = "come from swh/sth">
+                    <w n = "10" pos = "VBP" > come </w>
+                    <w n = "11" pos = "IN" > from </w>
+                    <w n = "12" pos = "JJ" > good </w>
+                    <w n = "13" pos = "NNS" lemma = "family" > families </w>
+                </phrase>
+                <w n = "14" pos = "CC" > and </w>
+                <w n = "15" pos = "VBP" > have </w>
+                <w n = "16" pos = "DT" > a </w>
+                <w n = "17" pos = "NN" > lot </w>
+                <w n = "18" pos = "IN" > of </w>
+                <w n = "19" pos = "NN" > money. </w>
+            </s>
+            <s n ="3">
+                <w n = "20" pos = "PRP" > We </w>
+                <w n = "21" pos = "VBP" > aren't </w>
+                <w n = "22" pos = "DT" > a </w>
+                <w n = "23" pos = "JJ" > famous </w>
+                <w n = "24" pos = "JJ" > old </w>
+                <w n = "25" pos = "NN" > family, </w>
+                <w n = "26" pos = "CC" > but </w>
+                <w n = "27" pos = "PRP" > we </w>
+                <w n = "28" pos = "VBP" > have </w>
+                <w n = "29" pos = "DT" > a </w>
+                <w n = "30" pos = "NN" > lot </w>
+                <w n = "31" pos = "IN" > of </w>
+                <w n = "32" pos = "NN" > money. </w>
+            </s>
+            <s n ="4">
+                <w n = "33" pos = "NNP" > My </w>
+                <w n = "34" pos = "NN" > money </w>
+                <w n = "35" pos = "VBZ" lemma = "make" > makes </w>
+                <w n = "36" pos = "PRP" > you </w>
+                <w n = "37" pos = "DT" > a </w>
+                <w n = "38" pos = "JJ" > gentleman, </w>
+                <w n = "39" pos = "NN" > too. </w>
+            </s>
+            <s n = "5">
+                <w n = "40" pos = "NNP" > Money </w>
+                <w n = "41" pos = "MD" > can </w>
+                <w n = "42" pos = "VB" > open </w>
+                <w n = "43" pos = "DT" > a </w>
+                <w n = "44" pos = "NN" > lot </w>
+                <w n = "45" pos = "IN" > of </w>
+                <w n = "46" pos = "NNS" lemma = "door" > doors </w>
+                <w n = "47" pos = "IN" > for </w>
+                <w n = "48" pos = "JJ" > you," </w>
+                <w n = "49" pos = "NNP" > Mr. </w>
+                <w n = "50" pos = "NNP" > Rockwall </w>
+                <w n = "51" pos = "VBZ" lemma = "say" > says </w>
+                <w n = "52" pos = "IN" > with </w>
+                <w n = "53" pos = "DT" > a </w>
+                <w n = "54" pos = "NN" > smile. </w>
+            </s>
+        </p>
+        <p n = "2">
+            <s n = "6">
+                <w n = "55" pos = "PRP" > He </w>
+                <w n = "56" pos = "VBD" > sat </w>
+                <w n = "57" pos = "JJ" > next </w>
+                <w n = "58" pos = "TO" > to </w>
+                <w n = "59" pos = "DT" > the </w>
+                <w n = "60" pos = "NN" meaning = "Equiptment" > speaker. </w>
+            </s>
+            <s n = "7">
+                <w n = "61" pos = "NNP" > A </w>
+                <w n = "62" pos = "NN" > voice </w>
+                <w n = "63" pos = "IN" > from </w>
+                <w n = "64" pos = "DT" > the </w>
+                <w n = "65" pos = "NN" > device </w>
+                <w n = "66" pos = "VBD" > said </w>
+                <phrase> pos = "phrasal verb" lemma = "get (sb) up" >
+                    <w n = "67" pos = "NNP" > "get </w>
+                    <w n = "68" pos = "NNP" > James </w>
+                    <w n = "69" pos = "JJ" > up, </w>
+                </phrase>
+                <w n = "70" pos = "NN" > it's </w>
+                <w n = "71" pos = "NN" > time </w>
+                <w n = "72" pos = "IN" > for </w>
+                <w n = "73" pos = "NN" > school". </w>
+            </s>
+        </p>
+    </text>
+</reader>

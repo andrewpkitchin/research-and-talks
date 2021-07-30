@@ -1,6 +1,15 @@
 
 <h1>In Progress Articles</h1>
 
+<h2> Derivations of Quantum and Involution Generalized Weyl Algebras </h2>
+
+**Abstract**
+
+We classify the derivations of degree one generalized Weyl algebras over a univariate Laurent polynomial ring. In particular, our results cover the Weyl-Hayashi algebra, a quantization of the first Weyl algebra arising as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">, and a family of algebras which localize to the group algebra of the infinite group with generators <img src="https://render.githubusercontent.com/render/math?math=x"> and <img src="https://render.githubusercontent.com/render/math?math=y">, subject to the relation 
+<img src="https://render.githubusercontent.com/render/math?math=xy = y^{-1}x">.
+
+The preprint of the article is available to read here: https://arxiv.org/pdf/2107.14189.pdf
+
 <h2> Speciesism in Everyday Language </h2>
 
 **Abstract**
@@ -20,16 +29,6 @@ The Enlightenment idea of historical moral progress asserts that civil societies
 Join work with Dr Stefan Leach and Professor Robbie M. Sutton.
 
 The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
-
-<h2> Derivations of Quantum and Involution Generalized Weyl Algebras </h2>
-
-**Abstract**
-
-We classify the derivations of degree one generalized Weyl algebras over a univariate Laurent polynomial ring. In particular, our results cover the Weyl-Hayashi algebra, a quantization of the first Weyl algebra arising as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">, and a family of algebras which localize to the group algebra of the infinite group with generators <img src="https://render.githubusercontent.com/render/math?math=x"> and <img src="https://render.githubusercontent.com/render/math?math=y">, subject to the relation 
-<img src="https://render.githubusercontent.com/render/math?math=xy = y^{-1}x">.
-
-Join work with Professor Stephane Launois.
-
 
 <h1>Publications</h1>
 

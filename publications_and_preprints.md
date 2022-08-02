@@ -30,7 +30,7 @@ Speciesism refers to the different moral standing given to species, and includes
 
 Join work with Dr Stefan Leach, Professor Robbie M. Sutton, and Dr Kristof Dhont, this article was published in the British Psychological Society Journal in 2022.
 
-The preprint of the article is available to read here: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjso.12561
+This article is available to read here: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjso.12561
 
 <h2> On the Automorphisms of Quantum Weyl Algebras </h2>
 

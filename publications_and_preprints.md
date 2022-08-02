@@ -10,16 +10,6 @@ We classify the derivations of degree one generalized Weyl algebras over a univa
 
 The preprint of the article is available to read here: https://arxiv.org/pdf/2107.14189.pdf
 
-<h2> Speciesism in Everyday Language </h2>
-
-**Abstract**
-
-Speciesism refers to the different moral standing given to species, and includes human supremacy over animals, and differentiations between animals, where companion animals are given higher moral standing than other species. Although it is clear that speciesism is culturally encoded, psychological science has revealed more about manifestations of speciesism in individuals’ thought than in collective systems of meaning. We present a quantitative test of speciesism by applying machine-learning methods (word embeddings) to billions of English words derived from conversation, film, books, and the internet. We found evidence of anthropocentric speciesism:words denoting concern (vs. indifference) and value (vs. valuelessness) were more closely associated with words denoting humans compared to most other animals. We also found evidence of companion animal speciesism:the same words were more closely associated with words denoting companion animals compared to other animals. The work presents a large-scale quantitative account of speciesism in everyday language.
-
-Join work with Dr Stefan Leach, Professor Robbie M. Sutton, and Dr Kristof Dhont.
-
-The preprint of the article is available to read here: https://psyarxiv.com/ktvgx/ 
-
 <h2> Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment </h2>
 
 **Abstract**
@@ -31,6 +21,16 @@ Join work with Dr Stefan Leach and Professor Robbie M. Sutton.
 The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
 
 <h1>Publications</h1>
+
+<h2> Speciesism in Everyday Language </h2>
+
+**Abstract**
+
+Speciesism refers to the different moral standing given to species, and includes human supremacy over animals, and differentiations between animals, where companion animals are given higher moral standing than other species. Although it is clear that speciesism is culturally encoded, psychological science has revealed more about manifestations of speciesism in individuals’ thought than in collective systems of meaning. We present a quantitative test of speciesism by applying machine-learning methods (word embeddings) to billions of English words derived from conversation, film, books, and the internet. We found evidence of anthropocentric speciesism:words denoting concern (vs. indifference) and value (vs. valuelessness) were more closely associated with words denoting humans compared to most other animals. We also found evidence of companion animal speciesism:the same words were more closely associated with words denoting companion animals compared to other animals. The work presents a large-scale quantitative account of speciesism in everyday language.
+
+Join work with Dr Stefan Leach, Professor Robbie M. Sutton, and Dr Kristof Dhont, this article was published in the British Psychological Society Journal in 2022.
+
+The preprint of the article is available to read here: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjso.12561
 
 <h2> On the Automorphisms of Quantum Weyl Algebras </h2>
 

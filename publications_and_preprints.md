@@ -1,5 +1,4 @@
-
-<h1>In Progress Articles</h1>
+<h1>Publications</h1>
 
 <h2> Derivations of Quantum and Involution Generalized Weyl Algebras </h2>
 
@@ -8,19 +7,19 @@
 We classify the derivations of degree one generalized Weyl algebras over a univariate Laurent polynomial ring. In particular, our results cover the Weyl-Hayashi algebra, a quantization of the first Weyl algebra arising as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">, and a family of algebras which localize to the group algebra of the infinite group with generators <img src="https://render.githubusercontent.com/render/math?math=x"> and <img src="https://render.githubusercontent.com/render/math?math=y">, subject to the relation 
 <img src="https://render.githubusercontent.com/render/math?math=xy = y^{-1}x">.
 
+This published article is available to read here: https://www.worldscientific.com/doi/abs/10.1142/S0219498824500762?journalCode=jaa
+
 The preprint of the article is available to read here: https://arxiv.org/pdf/2107.14189.pdf
 
-<h2> Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment </h2>
+<h2> Word Embeddings Reveal Growing Moral Concern for People, Animals and the Environment </h2>
 
 **Abstract**
 
-The Enlightenment idea of historical moral progress asserts that civil societies become more moral over time. We tested this by examining how collective linguistic representations of people, animals, and the environment have changed over the 19th and 20th centuries. Specifically, we applied machine-learning methods (word embeddings) to archives of natural language and examined the associations between words denoting moral concern (vs. moral indifference) and words denoting entities spanning family members, ingroups, outgroups, marginalized individuals, animals, and the environment. Study 1 validated these associations by showing that they are greatest for those entities that are afforded the most moral concern (e.g., son) and lowest for those that are afforded the least (e.g., rival). Study 2 showed that these associations grew stronger over the 19th and 20th centuries. The results favor optimistic views of history.
+The Enlightenment idea of historical moral progress asserts that civil societies become more moral over time. This is often understood as an expanding moral circle and is argued to be tightly linked with language use, with some suggesting that shifts in how we express concern for others can be considered an important indicator of moral progress. Our research explores these notions by examining historical trends in natural language use during the 19th and 20th centuries. We found that the associations between words denoting moral concern and words referring to people, animals, and the environment grew stronger over time. The findings support widely-held views about the nature of moral progress by showing that language has changed in a way that reflects greater concern for others.
 
-Join work with Dr Stefan Leach and Professor Robbie M. Sutton.
+Joint work with Dr Stefan Leach and Professor Robbie M. Sutton.
 
-The preprint of the article is available to read here: https://psyarxiv.com/9rpxj 
-
-<h1>Publications</h1>
+This article is available to read here: [https://psyarxiv.com/9rpxj ](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12663)
 
 <h2> Speciesism in Everyday Language </h2>
 
@@ -38,7 +37,7 @@ This article is available to read here: https://bpspsychub.onlinelibrary.wiley.c
 
 Motivated by Weyl algebra analogues of the Jacobian conjecture and the tame generators problem, we prove quantum versions of these problems for a family of analogues to the Weyl algebras. In particular, our results cover the Weyl–Hayashi algebras and tensor powers of a quantization of the first Weyl algebra which arises as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">.
 
-Jointly authored with Professor Stephane Launois, this article was published in the Journal of Pure and Applied Algebra in 2019.
+This article, jointly authored with Professor Stephane Launois, was published in the Journal of Pure and Applied Algebra in 2019.
 
 Available here: https://www.sciencedirect.com/science/article/pii/S0022404918301646
 
@@ -52,7 +51,7 @@ We prove that every endomorphism of a simple quantum generalized Weyl algebra A 
 
 Jointly authored with Professor Stephane Launois, this article was published in the Letters in Mathematical Physics in 2014. 
 
-The University of Kent provided funding to make this paper open access and is therefore free to read here: https://link.springer.com/article/10.1007/s11005-014-0691-4
+The University of Kent provided funding to make this paper open access and is, therefore, free to read here: https://link.springer.com/article/10.1007/s11005-014-0691-4
 
 The preprint of the article is available to read here: https://arxiv.org/abs/1311.3907
 
@@ -73,11 +72,11 @@ Elite City Resort, Kalamata, Greece
 
 <h3> Endomophisms of Quantum Generalized Weyl Algebras </h3> 
 
-Conference: Calssical Aspects of Ring Theory and Module Theory, 16 July 2013
+Conference: Classical Aspects of Ring Theory and Module Theory, 16 July 2013
 
 Mathematical Research and Conference Center, Bedlewo, Poland
 
-<h3> The Jacobian and Dixmier conjectures, and GWAs </h3> 
+<h3> The Jacobian and Dixmier conjectures and GWAs </h3> 
 
 Research Seminar, 24 May 2013
 

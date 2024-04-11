@@ -4,8 +4,7 @@
 
 **Abstract**
 
-We classify the derivations of degree one generalized Weyl algebras over a univariate Laurent polynomial ring. In particular, our results cover the Weyl-Hayashi algebra, a quantization of the first Weyl algebra arising as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">, and a family of algebras which localize to the group algebra of the infinite group with generators <img src="https://render.githubusercontent.com/render/math?math=x"> and <img src="https://render.githubusercontent.com/render/math?math=y">, subject to the relation 
-<img src="https://render.githubusercontent.com/render/math?math=xy = y^{-1}x">.
+We classify the derivations of degree one generalized Weyl algebras over a univariate Laurent polynomial ring. In particular, our results cover the Weyl-Hayashi algebra, a quantization of the first Weyl algebra arising as a primitive factor algebra of the positive part of the quantized universal enveloping algebra of SO5, and a family of algebras which localize to the group algebra of the infinite group with generators x and y, subject to the relation xy = y^{-1}.
 
 This published article is available to read here: https://www.worldscientific.com/doi/abs/10.1142/S0219498824500762?journalCode=jaa
 
@@ -35,7 +34,7 @@ This article is available to read here: https://bpspsychub.onlinelibrary.wiley.c
 
 **Abstract**
 
-Motivated by Weyl algebra analogues of the Jacobian conjecture and the tame generators problem, we prove quantum versions of these problems for a family of analogues to the Weyl algebras. In particular, our results cover the Weyl–Hayashi algebras and tensor powers of a quantization of the first Weyl algebra which arises as a primitive factor algebra of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">.
+Motivated by Weyl algebra analogues of the Jacobian conjecture and the tame generators problem, we prove quantum versions of these problems for a family of analogues to the Weyl algebras. In particular, our results cover the Weyl–Hayashi algebras and tensor powers of a quantization of the first Weyl algebra which arises as a primitive factor algebra of the positive part of the quantized universal enveloping algebra of SO5.
 
 This article, jointly authored with Professor Stephane Launois, was published in the Journal of Pure and Applied Algebra in 2019.
 
@@ -47,7 +46,7 @@ The preprint of the article is available to read here: https://arxiv.org/pdf/151
 
 **Abstract**
 
-We prove that every endomorphism of a simple quantum generalized Weyl algebra A over a commutative Laurent polynomial ring in one variable is an automorphism. This is achieved by obtaining an explicit classification of all endomorphisms of A. Our main result applies to minimal primitive factors of the quantized enveloping algebra <img src="https://render.githubusercontent.com/render/math?math=U_q (\mathfrak{sl}_2)"> and certain minimal primitive quotients of the positive part of <img src="https://render.githubusercontent.com/render/math?math=U_q^{%2B} (\mathfrak{so}_5)">.
+We prove that every endomorphism of a simple quantum generalized Weyl algebra A over a commutative Laurent polynomial ring in one variable is an automorphism. This is achieved by obtaining an explicit classification of all endomorphisms of A. Our main result applies to minimal primitive factors of the quantized enveloping algebra of SL2 and certain minimal primitive quotients of the positive part of the quantized universal enveloping algebra of SO5.
 
 Jointly authored with Professor Stephane Launois, this article was published in the Letters in Mathematical Physics in 2014. 
 

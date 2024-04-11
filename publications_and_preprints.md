@@ -19,7 +19,7 @@ The Enlightenment idea of historical moral progress asserts that civil societies
 
 Joint work with Dr Stefan Leach and Professor Robbie M. Sutton.
 
-This article is available to read here: [https://psyarxiv.com/9rpxj ](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12663)
+This article is available to read here: https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12663
 
 <h2> Speciesism in Everyday Language </h2>
 
